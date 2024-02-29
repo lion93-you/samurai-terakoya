@@ -1,0 +1,2 @@
+.secret1 >> .gitignore
+echo .secret1
